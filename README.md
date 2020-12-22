@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Rainbow cat's github stats](https://github-readme-stats.vercel.app/api?username=CodeHaotian&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![nuo-promise's github stats](https://github-readme-stats.vercel.app/api?username=nuo-promise&show_icons=true&hide=starts&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **nuo-promise/nuo-promise** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
