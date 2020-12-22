@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+### Visitors
 ![](http://antzuhl.cn:4000/get/@nuo-promise.readme)
 
 [![nuo-promise's github stats](https://github-readme-stats.vercel.app/api?username=nuo-promise&show_icons=true&count_private=true&include_all_commits=true&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
@@ -12,7 +13,7 @@
 [![](https://img.shields.io/badge/Intellij-Idea-blue?style=flat-square&logo=intellijidea&logoColor=000000)](https://code.visualstudio.com/)
 
 [![](https://img.shields.io/badge/Honor-V30-f5010c?style=flat-square&logo=huawei&logoColor=ffffff)](https://www.apple.com/)
-[![](https://img.shields.io/badge/iPhone-SE-000000?style=flat-square&logo=apple&logoColor=ffffff)](https://www.blackberry.com/)
+[![](https://img.shields.io/badge/iPhone-7-000000?style=flat-square&logo=apple&logoColor=ffffff)](https://www.blackberry.com/)
 
 [![](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)](https://reactjs.org/)
 [![](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)](https://postcss.org/)
@@ -27,7 +28,7 @@
 [![](https://img.shields.io/badge/-Vue.js-4fc08d?style=flat-square&logo=vue.js&logoColor=ffffff)](https://vuejs.org/)
 [![](https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=node.js&logoColor=ffffff)](https://nodejs.org/)
 [![](https://img.shields.io/badge/-Nginx-269539?style=flat-square&logo=nginx&logoColor=ffffff)](https://nginx.org/)
-[![](https://img.shields.io/badge/-ElasticSearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)](https://www.typescriptlang.org/)
+<!--[![](https://img.shields.io/badge/-ElasticSearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)](https://www.typescriptlang.org/)-->
 [![](https://img.shields.io/badge/-Redis-dc382d?style=flat-square&logo=redis&logoColor=white)](https://sass-lang.com/)
 [![](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)](https://stylus-lang.com/)
 
