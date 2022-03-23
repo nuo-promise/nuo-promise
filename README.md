@@ -1,11 +1,57 @@
-### Hi there 👋
+<!-- markdownlint-disable MD033 MD041-->
+<p align="center">
+  <h3 align="center">⌨️ Readme Typing SVG</h3>
+</p>
 
-### Visitors
-![](http://antzuhl.cn:4000/get/@nuo-promise.readme)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=System.out.println(Hello,World!);潜心修炼,为往圣继绝学!&font=Fira%20Code&center=true&width=380&height=50">
+</p>
 
-[![nuo-promise's github stats](https://github-readme-stats.vercel.app/api?username=nuo-promise&show_icons=true&count_private=true&include_all_commits=true&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
+<!-- 敲代码的图片 -->
+<div align="center" ><img order-radius="100px" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300019556.gif"/></div>
+<br>
 
-### Platform&Tools
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nuo-promise" alt="Profile Views" />
+  <img src="https://visitor-badge.glitch.me/badge?page_id=nuo-promise.profile" alt="访客统计" />
+</p>
+<!-- markdownlint-enable MD033 -->
+
+<!-- 贪吃蛇代码贡献图 -->
+<div align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/contribution-snake/github-contribution-grid-snake.svg" /></div>
+
+## 🙋 Hi there 👋
+- Hello, I'm nuo-promise 👋
+- 🔭 _Searching Engine_ developer
+- 🌱 _println_ debugger
+- 👯 _never takes two_ follower
+- 🤔 _why does it run_ creator
+- 💬 _Hello World!_ tester
+
+<!-- 连续提交代码天数记录 -->
+
+<div align="center">
+  <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300310676.png" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nuo-promise&theme=dark&hide_border=true" />
+  <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300312623.png" />
+</div>
+
+<br>
+<!-- Dynamic Quotes -->
+<div align="center"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"></div>
+
+<!-- GitHub奖杯🏆 -->
+<div align="center"><img  src="https://github-profile-trophy.vercel.app/?username=sun0225SUN&theme=gruvbox&row=1&column=6&no-frame=true&no-bg=true" /></div>
+<br>
+
+<!-- GitHub数据统计 -->
+<div align="center">
+  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=nuo-promise&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=nord" />
+  <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nuo-promise&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=nord" />
+</div>
+<br>
+
+## Platform&Tools
 [![](https://img.shields.io/badge/OS-Arch%20Linux-33aadd?style=flat-square&logo=arch-linux&logoColor=ffffff)](https://www.archlinux.org/)
 [![](https://img.shields.io/badge/macOS-Catalina-292e33?style=flat-square&logo=apple&logoColor=ffffff)](https://www.tonymacx86.com/)
 [![](https://img.shields.io/badge/Windows-10-2376bc?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/get-windows-10)
@@ -36,17 +82,3 @@
 
 ![](https://img.shields.io/badge/-Nintendo%20Switch-e60012?style=flat-square&logo=nintendo%20switch&logoColor=ffffff)
 [![](https://img.shields.io/badge/Steam-171a21?style=flat-square&logo=steam&logoColor=ffffff)](https://steamcommunity.com/id/antzuhl)
-<!--
-**nuo-promise/nuo-promise** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
