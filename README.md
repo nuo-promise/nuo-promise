@@ -22,7 +22,7 @@
 
 ## 🙋 Hi there 👋
 - Hello, I'm nuo-promise 👋
-- 🔭 _Searching Engine_ developer
+- 🔭 _C++/Java/Python_ developer
 - 🌱 _println_ debugger
 - 👯 _never takes two_ follower
 - 🤔 _why does it run_ creator
