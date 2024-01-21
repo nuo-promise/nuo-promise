@@ -1,5 +1,5 @@
 <h2> Hi, I'm nuo ₂₀₂₄!<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://wimg.588ku.com/gif620/20/09/27/07d6b9b3fe3a69b46867ed7429116451.gif" width="230">
+<img align='right' src="https://wimg.588ku.com/gif620/20/09/27/07d6b9b3fe3a69b46867ed7429116451.gif" width="500">
 <p><em>Full Stack Enginner at HangZhou </a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
